@@ -1757,23 +1757,6 @@
           "build/netcoreapp3.1/NUnit3TestAdapter.targets": {}
         }
       },
-      "Stripe.net/51.1.0": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "System.Configuration.ConfigurationManager": "9.0.0"
-        },
-        "compile": {
-          "lib/net9.0/Stripe.net.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net9.0/Stripe.net.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "Swashbuckle.AspNetCore/6.9.0": {
         "type": "package",
         "dependencies": {
@@ -1864,7 +1847,7 @@
           "System.Security.Cryptography.ProtectedData": "9.0.4"
         },
         "compile": {
-          "lib/net9.0/System.Configuration.ConfigurationManager.dll": {
+          "lib/net9.0/_._": {
             "related": ".xml"
           }
         },
@@ -2001,7 +1984,6 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "10.0.5",
           "Microsoft.EntityFrameworkCore": "10.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.5",
-          "Stripe.net": "51.1.0",
           "Swashbuckle.AspNetCore": "6.9.0"
         },
         "compile": {
@@ -4532,30 +4514,6 @@
         "nunit3testadapter.5.0.0.nupkg.sha512",
         "nunit3testadapter.nuspec",
         "nunit_256.png"
-      ]
-    },
-    "Stripe.net/51.1.0": {
-      "sha512": "q4Kj14NP0jaGKRkeuCTL2Mwn7BVgVUHowBiGJAX2fGiEIOVbdhpCERlNRTuvirN/5IGae6cCToS0+H/oSX395A==",
-      "type": "package",
-      "path": "stripe.net/51.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE",
-        "README.md",
-        "icon.png",
-        "lib/net462/Stripe.net.dll",
-        "lib/net462/Stripe.net.xml",
-        "lib/net6.0/Stripe.net.dll",
-        "lib/net6.0/Stripe.net.xml",
-        "lib/net8.0/Stripe.net.dll",
-        "lib/net8.0/Stripe.net.xml",
-        "lib/net9.0/Stripe.net.dll",
-        "lib/net9.0/Stripe.net.xml",
-        "lib/netstandard2.0/Stripe.net.dll",
-        "lib/netstandard2.0/Stripe.net.xml",
-        "stripe.net.51.1.0.nupkg.sha512",
-        "stripe.net.nuspec"
       ]
     },
     "Swashbuckle.AspNetCore/6.9.0": {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YgiVXc2NBak=",
+  "dgSpecHash": "Xq9HJuINwX4=",
   "success": true,
   "projectFilePath": "C:\\Projects\\PharmacyManagementSystem\\PharmacyManagementSystem.csproj",
   "expectedPackageFiles": [
@@ -42,7 +42,6 @@
     "C:\\Users\\anant\\.nuget\\packages\\microsoft.visualstudio.solutionpersistence\\1.0.52\\microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\anant\\.nuget\\packages\\stripe.net\\51.1.0\\stripe.net.51.1.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\swashbuckle.aspnetcore\\6.9.0\\swashbuckle.aspnetcore.6.9.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.9.0\\swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.9.0\\swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512",

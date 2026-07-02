@@ -216,3 +216,4 @@ c:\Projects\PharmacyManagementSystem.Tests\obj\Debug\net10.0\PharmacyManagementS
 c:\Projects\PharmacyManagementSystem.Tests\obj\Debug\net10.0\PharmacyManagementSystem.Tests.genruntimeconfig.cache
 c:\Projects\PharmacyManagementSystem.Tests\obj\Debug\net10.0\ref\PharmacyManagementSystem.Tests.dll
 C:\Projects\PharmacyManagementSystem.Tests\bin\Debug\net10.0\Stripe.net.dll
+C:\Projects\PharmacyManagementSystem.Tests\obj\Debug\net10.0\PharmacyManagementSystem.Tests.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KaaHkUX4N6g=",
+  "dgSpecHash": "PwD4Md6T3aM=",
   "success": true,
   "projectFilePath": "C:\\Projects\\PharmacyManagementSystem.Tests\\PharmacyManagementSystem.Tests.csproj",
   "expectedPackageFiles": [
@@ -82,7 +82,6 @@
     "C:\\Users\\anant\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\nunit.analyzers\\4.7.0\\nunit.analyzers.4.7.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\nunit3testadapter\\5.0.0\\nunit3testadapter.5.0.0.nupkg.sha512",
-    "C:\\Users\\anant\\.nuget\\packages\\stripe.net\\51.1.0\\stripe.net.51.1.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\swashbuckle.aspnetcore\\6.9.0\\swashbuckle.aspnetcore.6.9.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.9.0\\swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.9.0\\swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512",

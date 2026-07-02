@@ -27,7 +27,6 @@ builder.Services.AddScoped<IDrugRepository, DrugRepository>();
 builder.Services.AddScoped<ISupplierRepository, SupplierRepository>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<ISaleRepository, SaleRepository>();
-builder.Services.AddScoped<IPaymentService, PaymentService>();
 
 // Services Registration
 builder.Services.AddScoped<IDrugService, DrugService>();
@@ -103,8 +102,12 @@ var app = builder.Build();
 // Swagger in development
 if (app.Environment.IsDevelopment())
 {
-app.UseSwagger();
-app.UseSwaggerUI();
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Pharmacy API v1");
+        c.RoutePrefix = string.Empty;
+    });
 }
 
 app.UseHttpsRedirection();
